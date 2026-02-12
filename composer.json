@@ -14,7 +14,7 @@
     "extra": {
         "statamic": {
             "name": "Alt Redirect",
-            "description": "Alt Redirect addon"
+            "description": "Alt Redirect addon main"
         },
         "laravel": {
             "providers": [
